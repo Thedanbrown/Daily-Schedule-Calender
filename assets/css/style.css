@@ -20,7 +20,7 @@ textarea{
   background-color: transparent;
   color: #7f7777;
   border-radius: 0;
-  border-bottom: 10px solid #ea558dff;
+  border-bottom: 10px solid rgba(234, 85, 142, 0.784);
 }
 
 .description{
@@ -40,7 +40,7 @@ textarea{
 
 .hour {
   background-color: #333333ff;
-  color: #ea558dff;
+  color: rgba(234, 85, 142, 0.784);
   border-top: 1px dashed #000000;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
@@ -57,7 +57,7 @@ textarea{
 }
 
 .future {
-  background-color: #1d5832;
+  background-color: #065a2373;
   color: white;
 }
 
@@ -65,7 +65,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #ea558dff;
+  background-color: rgba(234, 85, 142, 0.784);
   color: black;
 }
 
