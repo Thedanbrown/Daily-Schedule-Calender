@@ -1,0 +1,75 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  background-color: #111111ff;
+  text-shadow: 0 0 15px 3px #ea558dff;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: #7f7777;
+  border-radius: 0;
+  border-bottom: 10px solid #ea558dff;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid rgb(135, 128, 128);;
+}
+
+.hour {
+  background-color: #333333ff;
+  color: #ea558dff;
+  border-top: 1px dashed #000000;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.past {
+  background-color: #615f5f;
+  color: white;
+}
+
+.present {
+  background-color: #b00020;
+  color: white;
+}
+
+.future {
+  background-color: #1d5832;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #ea558dff;
+  color: black;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
