@@ -7,8 +7,8 @@ This repository contains a daily workday calender built using HTML, CSS, javascr
 
 Links:
 
-[Deployed Website](https://thedanbrown.github.io/Daily-Schedule-Calender/)
-[Repository](https://github.com/Thedanbrown/Daily-Schedule-Calender)
+# [Deployed Website](https://thedanbrown.github.io/Daily-Schedule-Calender/)
+# [Repository](https://github.com/Thedanbrown/Daily-Schedule-Calender)
 
 Usage:
 
